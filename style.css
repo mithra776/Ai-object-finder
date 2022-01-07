@@ -1,0 +1,37 @@
+body
+{
+   background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    margin: 0;
+    width: 100%;
+}
+
+#note
+{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+}
+
+input
+{
+    width: 60%;
+    text-align: center;
+}
+
+#start_button
+{
+    border-radius: 18px;
+}
+
+canvas
+{
+  box-shadow: 5px 5px 5px white;
+  border: 2px solid white;
+  border-radius: 10px;
+  margin-top: 150px;
+}
